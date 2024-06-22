@@ -1,6 +1,4 @@
-<div align="center">
-   <h2> Hello, I'm Do Yeon 🐬</h2>
-</div>
+
 
 <div align="center">
   <a href="https://github.com/doyeon01">
@@ -35,9 +33,5 @@
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
    </div>
 </div>
-
-
-
-
 
 
